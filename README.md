@@ -15,10 +15,10 @@
 ## 👋 About Me
 
 - 🎓 B.E. Computer Science Engineering @ **Vidyavardhaka College of Engineering**, Mysuru
-- 🔍 Focused on **Data, Analysis & Problem Solving**
+- 🔍 Focused on **Data, Analysis &amp; Problem Solving**
 - 🏗️ Building real-world applications with meaningful impact
-- ⚡ Participated at **IIT Bombay tech fest** & **Christ University tech events**
-- ⚽🏀 District-level athlete — Football & Basketball representative
+- ⚡ Participated at **IIT Bombay tech fest** &amp; **Christ University tech events**
+- ⚽🏀 District-level athlete — Football &amp; Basketball representative
 - 📬 Reach me at **vvce25cse0625@vvce.ac.in**
 
 ---
@@ -45,7 +45,7 @@
 
   <br/><br/>
 
-  <b>BlueSecure</b> — Low-cost security solution with sensor integration & threat detection<br/>
+  <b>BlueSecure</b> — Low-cost security solution with sensor integration &amp; threat detection<br/>
   <sub>Mar 2025 – May 2025 · Academic Project</sub>
 
 </p>
@@ -76,6 +76,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrithik4&bg_color=0a0a0a&color=00cfff&line=00cfff&point=00e5ff&area=true&hide_border=true&hide_title=true" />
 </p>
 
+### 🐍 Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ### 🌐 Connect
@@ -84,6 +90,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00cfff)](www.linkedin.com/in/hrithik-rai-a46bb4384)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00cfff)](mailto:vvce25cse0625@vvce.ac.in)
+[![Phone](https://img.shields.io/badge/6282580260-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00cfff)](tel:+916282580260)
 
 </div>
 
