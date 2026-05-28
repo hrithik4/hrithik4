@@ -1,87 +1,92 @@
 <div align="center">
-
-<br/>
-
-# HRITHIK RAI
-
-**`cse '29 · vidyavardhaka college of engineering · mysore`**
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=600&size=24&pause=3000&color=4A9EDB&center=true&vCenter=true&width=700&lines=computer+science+student+who+actually+reads+the+docs.;building+quietly.+thinking+loudly.;systems+first.+shortcuts+never.)](https://git.io/typing-svg)
-
-<br/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:001a2e,100:0a0a0a&height=220&section=header&text=Hrithik%20Rai%20A&fontSize=54&fontColor=00cfff&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Data%20%26%20Analysis%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&descColor=00e5ff&animation=fadeIn&stroke=00cfff&strokeWidth=1" />
 </div>
 
----
-
 <br/>
 
-I got into CS because I wanted to understand how things actually work — not just use them.
-
-First year at **VVCE Mysore**. CSE. I spend more time understanding *why* an abstraction exists than learning how to use it. I think that matters.
-
-My interests sit at the intersection of **operating systems**, **system design**, and writing code that doesn't make the next person curse your name. I approach problems methodically — break it down, find the structure underneath, solve that.
-
-I'm not the loudest builder in the room. But when something ships from my end, it's been thought through.
-
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00CFFF&center=true&vCenter=true&width=620&lines=CSE+Student+%40+VVCE+%F0%9F%8E%93;Python+%7C+C+%7C+Data+Structures;Building+real-world+solutions+%F0%9F%9B%A0%EF%B8%8F;Always+curious%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-<br/>
+## 👋 About Me
+
+- 🎓 B.E. Computer Science Engineering @ **Vidyavardhaka College of Engineering**, Mysuru
+- 🔍 Focused on **Data, Analysis & Problem Solving**
+- 🏗️ Building real-world applications with meaningful impact
+- ⚡ Participated at **IIT Bombay tech fest** & **Christ University tech events**
+- ⚽🏀 District-level athlete — Football & Basketball representative
+- 📬 Reach me at **vvce25cse0625@vvce.ac.in**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/Data%20Structures-0a0a0a?style=for-the-badge&logo=thealgorithms&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/Algorithms-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/OOP-0a0a0a?style=for-the-badge&logo=abstract&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/Tech%20Research-0a0a0a?style=for-the-badge&logo=researchgate&logoColor=00cfff" />
+</p>
+
+---
+
+## 📌 Projects
+
+<p align="center">
+
+  <b>CrowdSafe</b> — Crowd management app for real-time public safety monitoring<br/>
+  <sub>Sep 2025 – Feb 2026 · Academic Project</sub>
+
+  <br/><br/>
+
+  <b>BlueSecure</b> — Low-cost security solution with sensor integration & threat detection<br/>
+  <sub>Mar 2025 – May 2025 · Academic Project</sub>
+
+</p>
+
+---
+
+## 💡 Key Strengths
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-0a0a0a?style=for-the-badge&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/Quick%20Learner-0a0a0a?style=for-the-badge&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-0a0a0a?style=for-the-badge&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/Communication-0a0a0a?style=for-the-badge&logoColor=00cfff" />
+  <img src="https://img.shields.io/badge/Adaptability-0a0a0a?style=for-the-badge&logoColor=00cfff" />
+</p>
+
+---
+
+## 🔥 Quote
+
+> *"Data is not information, information is not knowledge, knowledge is not wisdom."*
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrithik4&bg_color=0a0a0a&color=00cfff&line=00cfff&point=00e5ff&area=true&hide_border=true&hide_title=true" />
+</p>
+
+---
+
+### 🌐 Connect
 
 <div align="center">
 
-### things i actually know
-
-<br/>
-
-`operating systems` &nbsp;·&nbsp; `system design` &nbsp;·&nbsp; `problem solving` &nbsp;·&nbsp; `C` &nbsp;·&nbsp; `clean code principles`
-
-<br/>
-
-### things i'm working toward
-
-<br/>
-
-`data structures & algorithms` &nbsp;·&nbsp; `full-stack basics` &nbsp;·&nbsp; `open source contributions`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00cfff)](www.linkedin.com/in/hrithik-rai-a46bb4384)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00cfff)](mailto:vvce25cse0625@vvce.ac.in)
 
 </div>
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-### on the internet
-
-<br/>
-
-[linkedin](https://www.linkedin.com/in/hrithik-raia46bb4384) &nbsp;·&nbsp; [email](mailto:hrithikashokrai@gmail.com) &nbsp;·&nbsp; [+91 62825 80260](tel:6282580260)
-
-<br/>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrithikashokrai&bg_color=ffffff&color=4a9edb&line=4a9edb&point=1a6eb0&area=true&area_color=e8f4fd&hide_border=true&custom_title=.&theme=minimal" width="92%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<sub>mysore → everywhere &nbsp;·&nbsp; building since '25</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:001a2e,100:0a0a0a&height=160&section=footer&text=Let's%20Build%20Something%20Great&fontColor=00cfff&fontSize=20&fontAlignY=68&animation=fadeIn" />
