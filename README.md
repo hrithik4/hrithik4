@@ -83,7 +83,7 @@
 ### 🐍 Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HrithikRaiA/HrithikRaiA/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hrithik4/hrithik4/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ### 🌐 Connect
